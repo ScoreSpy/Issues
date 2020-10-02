@@ -1,4 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
@@ -50,10 +49,8 @@ See the [open issues](https://github.com/ScoreSpy/Issues/issues) for a list of p
 * [Email](mailto:ahrianadev@gmail.com)
 * [Discord](https://discord.com/invite/ZjkX22u)
 
-[contributors-shield]: https://img.shields.io/github/contributors/ScoreSpy/repo.svg?style=flat-square
-[contributors-url]: https://github.com/ScoreSpy/repo/graphs/contributors
-[stars-shield]: https://img.shields.io/github/stars/ScoreSpy/repo.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/ScoreSpy/Issues.svg?style=flat-square
 [stars-url]: https://github.com/ScoreSpy/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ScoreSpy/repo.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/ScoreSpy/Issues.svg?style=flat-square
 [issues-url]: https://github.com/ScoreSpy/repo/issues
 [product-screenshot]: images/main.png
