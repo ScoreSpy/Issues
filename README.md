@@ -28,7 +28,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://scorespy.online/)
 
 ScoreSpy is our brand new leaderboard system designed to coincide with Clone Hero.<br>
 The website is a highly advanced score tracking portal with a purpose to compete against others 
