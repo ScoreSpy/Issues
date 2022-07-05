@@ -37,6 +37,7 @@ The website is a highly advanced score tracking portal with a purpose to compete
 
 * [VueJS](https://vuejs.org/)
 * [VuetifyJS](https://vuetifyjs.com/)
+* [TypeScript](https://www.typescriptlang.org/)
 * And much more
 
 ## Roadmap
