@@ -36,7 +36,6 @@ The website is a highly advanced score tracking portal with a purpose to compete
 ### Built With
 
 * [VueJS](https://vuejs.org/)
-* [NuxtJS](https://nuxtjs.org/)
 * [VuetifyJS](https://vuetifyjs.com/)
 * And much more
 
@@ -47,7 +46,7 @@ See the [open issues](https://github.com/ScoreSpy/Issues/issues) for a list of p
 ## Contact
 * [Project](https://github.com/ScoreSpy/Issues)
 * [Email](mailto:ahrianadev@gmail.com)
-* [Discord](https://discord.com/invite/ZjkX22u)
+* [Discord](https://discord.com/invite/pM7hbaVexY)
 
 [stars-shield]: https://img.shields.io/github/stars/ScoreSpy/Issues.svg?style=flat-square
 [stars-url]: https://github.com/ScoreSpy/repo/stargazers
